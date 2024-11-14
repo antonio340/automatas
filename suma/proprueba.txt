@@ -1,0 +1,11 @@
+def operacion(a, b):
+    suma = a + b
+    otraSuma = suma
+
+    return suma
+print(operacion(5, 6))
+
+def operacion2(c, d):
+    suma2 = c + d
+    return suma2
+print(operacion2(5, 6))
