@@ -1,0 +1,36 @@
+suma = 3 + 1
+resta = 4 - 2
+multiplicacion = 4 * 5
+division = 6 / 2
+x = 6
+y = 2
+si 5+x > 1 entonces 
+{
+	mostrar " 5 es mayor que 1"
+}
+sino
+{
+    mostrar "esta es una " + "concatenacion" + y
+}
+funcion pruebaResta ( a , b )
+{
+	resta = a - b
+	devolver resta
+}
+activar pruebaResta ( x , y )
+mostrar "ingresa tu nombre"
+guardar entrada en nombre
+repetir cont hasta el valor de repeticiones
+{
+	mostrar "asas"
+}
+mientras suma > resta 
+{
+	resta = resta + 2
+    si condicion es verdadero entonces
+    {
+        mostrar "la condicion es verdadera"
+    }
+}
+
+
